@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Witam wszystkich👋",
+      "description": "Jestem Qais Alsgher :) Ukończyłem Al al-Bayt University ze specjalizacją Inżynier Oprogramowania, obecnie jestem zapisany na szkolenie LTUC, aby zostać Full Stack Developerem, chcę zostać web developerem dla MŚP, rozwijam się i przeczytaj więcej o programowaniu i spędź więcej czasu na nauce, aż osiągnę swój cel. dziękuję za przeczytanie 🌹",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
@@ -11,14 +11,20 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Simple Template",
+        "startDate": "2022",
+        "description": "Pierwszy projekt w sieci wykorzystujący prosty szablon, HTML ,CSS",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/firstProject/project1.1.jpg",
+          "images/portfolio/firstProject/project1.2.jpg",
+          "images/portfolio/firstProject/project1.3.jpg",
+          "images/portfolio/firstProject/project1.3.jpg",
+          "images/portfolio/firstProject/project1.4.jpg",
+          "images/portfolio/firstProject/project1.5.jpg",
+          "images/portfolio/firstProject/project1.6.jpg"
+          
         ],
-        "url": "",
+        "url": "https://qais-alsgher.github.io/leon-template/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +41,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Restorent",
+        "startDate": "2022",
+        "description": "Drugi projekt w sieci, Restorent, pozwala na dodawanie nowych pozycji i ceny oraz dodawanie wszystkich pozycji w tabeli, strona internetowa restauracji może dodawać nowe produkty i ceny oraz wyświetlać wszystkie pozycje w tabeli, zbudowałem witrynę za pomocą,HTML,CSS,DOM,local storage.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/secondProject/project2.1.jpg",
+          "images/portfolio/secondProject/project2.2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://qais-alsgher.github.io/Restaurant/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +61,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Horned Beast",
+        "startDate": "2022",
+        "description": "Trzeci projekt w sieci, wiem, że to zły styl, ale zaczynam uczyć się Reacta od kilku dni, zbudowałem stronę internetową za pomocą ,React , bootstrap library",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/thirdProject/project3.1.jpg",
+          "images/portfolio/thirdProject/project3.2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://warm-croquembouche-d2e202.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -83,26 +89,27 @@
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "years": "10.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "php",
+          "React",
+          "QA"
         ]
       },
       {
         "company": "Serros Solutions",
         "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "years": "06.2022 - 12.2022",
         "mainTech": [
-          "Angular 7/8"
+          "React 7/8"
         ],
         "technologies": [
           "REST API",

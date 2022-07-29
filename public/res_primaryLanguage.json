@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello Everyone👋",
+      "description": "I'm Qais Alsgher :) I graduated from Al al-Bayt University with a major in Software Engineer, I am currently enrolled in LTUC training to become Full Stack Developer,I want to become a SME web developer , I'm developing myself and reading more about programing and spend more time to learning until i reach my goal. thank you for reading 🌹",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,20 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Simple Template",
+        "startDate": "2022",
+        "description": "The first project for wed that simple template using, HTML ,CSS",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/firstProject/project1.1.jpg",
+          "images/portfolio/firstProject/project1.2.jpg",
+          "images/portfolio/firstProject/project1.3.jpg",
+          "images/portfolio/firstProject/project1.3.jpg",
+          "images/portfolio/firstProject/project1.4.jpg",
+          "images/portfolio/firstProject/project1.5.jpg",
+          "images/portfolio/firstProject/project1.6.jpg"
+          
         ],
-        "url": "",
+        "url": "https://qais-alsgher.github.io/leon-template/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +41,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Restorent",
+        "startDate": "2022",
+        "description": "The second project in web, Restorent allow add new items and price and apper the all items in taple,the Restaurant website can add new items and price and appear the all items in table, I'm built  the site using ,HTML,CSS,DOM,local storage.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/secondProject/project2.1.jpg",
+          "images/portfolio/secondProject/project2.2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://qais-alsgher.github.io/Restaurant/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +61,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Horned Beast",
+        "startDate": "2022",
+        "description": "The third project in web ,I know is the bad style but I'am start lerning React since few day ,i'am built the web the site using ,React , bootstrap library",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/thirdProject/project3.1.jpg",
+          "images/portfolio/thirdProject/project3.2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://warm-croquembouche-d2e202.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -83,33 +89,32 @@
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "10.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "php",
+          "React",
+          "QA"
         ]
       },
       {
         "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "title": "Stażystka",
+        "years": "06.2022 - 12.2022",
         "mainTech": [
-          "Angular 7/8"
+          "React 7/8"
         ],
         "technologies": [
+          "REST API",
           "RxJS",
-          "Django",
-          "PHP",
+          "Swagger",
           "JavaScript",
           "DHTMLX Gantt"
         ]
